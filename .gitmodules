@@ -1,0 +1,3 @@
+[submodule "themes/jakecurran-theme"]
+	path = themes/jakecurran-theme
+	url = git@github.com:jakecurran/jakecurran-theme.git

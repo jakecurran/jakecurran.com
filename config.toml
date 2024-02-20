@@ -1,0 +1,12 @@
+base_url = "jakecurran.com"
+
+title = "Jake Curran"
+description = "Jake Curran's personal website"
+
+default_language = "en"
+
+theme = "jakecurran-theme"
+
+[extra]
+name = "Jake Curran"
+favicon = "favicon.ico"
